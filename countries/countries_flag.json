@@ -1,0 +1,749 @@
+{
+    "Afghanistan": {
+        "flag": "AF"
+    },
+    "Albania": {
+        "flag": "AL"
+    },
+    "Antarctica": {
+        "flag": "AQ"
+    },
+    "Algeria": {
+        "flag": "DZ"
+    },
+    "American Samoa": {
+        "flag": "AS"
+    },
+    "Andorra": {
+        "flag": "AD"
+    },
+    "Angola": {
+        "flag": "AO"
+    },
+    "Antigua and Barbuda": {
+        "flag": "AG"
+    },
+    "Azerbaijan": {
+        "flag": "AZ"
+    },
+    "Argentina": {
+        "flag": "AR"
+    },
+    "Australia": {
+        "flag": "AU"
+    },
+    "Austria": {
+        "flag": "AT"
+    },
+    "Bahamas": {
+        "flag": "BS"
+    },
+    "Bahrain": {
+        "flag": "BH"
+    },
+    "Bangladesh": {
+        "flag": "BD"
+    },
+    "Armenia": {
+        "flag": "AM"
+    },
+    "Barbados": {
+        "flag": "BB"
+    },
+    "Belgium": {
+        "flag": "BE"
+    },
+    "Bermuda": {
+        "flag": "BM"
+    },
+    "Bhutan": {
+        "flag": "BT"
+    },
+    "Bolivia, Plurinational State of": {
+        "flag": "BO"
+    },
+    "Bosnia and Herzegovina": {
+        "flag": "BA"
+    },
+    "Botswana": {
+        "flag": "BW"
+    },
+    "Bouvet Island": {
+        "flag": "BV"
+    },
+    "Brazil": {
+        "flag": "BR"
+    },
+    "Belize": {
+        "flag": "BZ"
+    },
+    "British Indian Ocean Territory": {
+        "flag": "IO"
+    },
+    "Solomon Islands": {
+        "flag": "SB"
+    },
+    "Virgin Islands, British": {
+        "flag": "VG"
+    },
+    "Brunei Darussalam": {
+        "flag": "BN"
+    },
+    "Bulgaria": {
+        "flag": "BG"
+    },
+    "Myanmar": {
+        "flag": "MM"
+    },
+    "Burundi": {
+        "flag": "BI"
+    },
+    "Belarus": {
+        "flag": "BY"
+    },
+    "Cambodia": {
+        "flag": "KH"
+    },
+    "Cameroon": {
+        "flag": "CM"
+    },
+    "Canada": {
+        "flag": "CA"
+    },
+    "Cape Verde": {
+        "flag": "CV"
+    },
+    "Cayman Islands": {
+        "flag": "KY"
+    },
+    "Central African Republic": {
+        "flag": "CF"
+    },
+    "Sri Lanka": {
+        "flag": "LK"
+    },
+    "Chad": {
+        "flag": "TD"
+    },
+    "Chile": {
+        "flag": "CL"
+    },
+    "China": {
+        "flag": "CN"
+    },
+    "Taiwan, Province of China": {
+        "flag": "TW"
+    },
+    "Christmas Island": {
+        "flag": "CX"
+    },
+    "Cocos (Keeling) Islands": {
+        "flag": "CC"
+    },
+    "Colombia": {
+        "flag": "CO"
+    },
+    "Comoros": {
+        "flag": "KM"
+    },
+    "Mayotte": {
+        "flag": "YT"
+    },
+    "Congo": {
+        "flag": "CG"
+    },
+    "Congo, the Democratic Republic of the": {
+        "flag": "CD"
+    },
+    "Cook Islands": {
+        "flag": "CK"
+    },
+    "Costa Rica": {
+        "flag": "CR"
+    },
+    "Croatia": {
+        "flag": "HR"
+    },
+    "Cuba": {
+        "flag": "CU"
+    },
+    "Cyprus": {
+        "flag": "CY"
+    },
+    "Czech Republic": {
+        "flag": "CZ"
+    },
+    "Benin": {
+        "flag": "BJ"
+    },
+    "Denmark": {
+        "flag": "DK"
+    },
+    "Dominica": {
+        "flag": "DM"
+    },
+    "Dominican Republic": {
+        "flag": "DO"
+    },
+    "Ecuador": {
+        "flag": "EC"
+    },
+    "El Salvador": {
+        "flag": "SV"
+    },
+    "Equatorial Guinea": {
+        "flag": "GQ"
+    },
+    "Ethiopia": {
+        "flag": "ET"
+    },
+    "Eritrea": {
+        "flag": "ER"
+    },
+    "Estonia": {
+        "flag": "EE"
+    },
+    "Faroe Islands": {
+        "flag": "FO"
+    },
+    "Falkland Islands (Malvinas)": {
+        "flag": "FK"
+    },
+    "South Georgia and the South Sandwich Islands": {
+        "flag": "GS"
+    },
+    "Fiji": {
+        "flag": "FJ"
+    },
+    "Finland": {
+        "flag": "FI"
+    },
+    "Åland Islands": {
+        "flag": "AX"
+    },
+    "France": {
+        "flag": "FR"
+    },
+    "French Guiana": {
+        "flag": "GF"
+    },
+    "French Polynesia": {
+        "flag": "PF"
+    },
+    "French Southern Territories": {
+        "flag": "TF"
+    },
+    "Djibouti": {
+        "flag": "DJ"
+    },
+    "Gabon": {
+        "flag": "GA"
+    },
+    "Georgia": {
+        "flag": "GE"
+    },
+    "Gambia": {
+        "flag": "GM"
+    },
+    "": {
+        "flag": ""
+    },
+    "Germany": {
+        "flag": "DE"
+    },
+    "Ghana": {
+        "flag": "GH"
+    },
+    "Gibraltar": {
+        "flag": "GI"
+    },
+    "Kiribati": {
+        "flag": "KI"
+    },
+    "Greece": {
+        "flag": "GR"
+    },
+    "Greenland": {
+        "flag": "GL"
+    },
+    "Grenada": {
+        "flag": "GD"
+    },
+    "Guadeloupe": {
+        "flag": "GP"
+    },
+    "Guam": {
+        "flag": "GU"
+    },
+    "Guatemala": {
+        "flag": "GT"
+    },
+    "Guinea": {
+        "flag": "GN"
+    },
+    "Guyana": {
+        "flag": "GY"
+    },
+    "Haiti": {
+        "flag": "HT"
+    },
+    "Heard Island and McDonald Islands": {
+        "flag": "HM"
+    },
+    "Holy See (Vatican City State)": {
+        "flag": "VA"
+    },
+    "Honduras": {
+        "flag": "HN"
+    },
+    "Hong Kong": {
+        "flag": "HK"
+    },
+    "Hungary": {
+        "flag": "HU"
+    },
+    "Iceland": {
+        "flag": "IS"
+    },
+    "India": {
+        "flag": "IN"
+    },
+    "Indonesia": {
+        "flag": "ID"
+    },
+    "Iran, Islamic Republic of": {
+        "flag": "IR"
+    },
+    "Iraq": {
+        "flag": "IQ"
+    },
+    "Ireland": {
+        "flag": "IE"
+    },
+    "Israel": {
+        "flag": "IL"
+    },
+    "Italy": {
+        "flag": "IT"
+    },
+    "Côte d'Ivoire": {
+        "flag": "CI"
+    },
+    "Jamaica": {
+        "flag": "JM"
+    },
+    "Japan": {
+        "flag": "JP"
+    },
+    "Kazakhstan": {
+        "flag": "KZ"
+    },
+    "Jordan": {
+        "flag": "JO"
+    },
+    "Kenya": {
+        "flag": "KE"
+    },
+    "Korea, Democratic People's Republic of": {
+        "flag": "KP"
+    },
+    "Korea, Republic of": {
+        "flag": "KR"
+    },
+    "Kuwait": {
+        "flag": "KW"
+    },
+    "Kyrgyzstan": {
+        "flag": "KG"
+    },
+    "Lao People's Democratic Republic": {
+        "flag": "LA"
+    },
+    "Lebanon": {
+        "flag": "LB"
+    },
+    "Lesotho": {
+        "flag": "LS"
+    },
+    "Latvia": {
+        "flag": "LV"
+    },
+    "Liberia": {
+        "flag": "LR"
+    },
+    "Libya": {
+        "flag": "LY"
+    },
+    "Liechtenstein": {
+        "flag": "LI"
+    },
+    "Lithuania": {
+        "flag": "LT"
+    },
+    "Luxembourg": {
+        "flag": "LU"
+    },
+    "Macao": {
+        "flag": "MO"
+    },
+    "Madagascar": {
+        "flag": "MG"
+    },
+    "Malawi": {
+        "flag": "MW"
+    },
+    "Malaysia": {
+        "flag": "MY"
+    },
+    "Maldives": {
+        "flag": "MV"
+    },
+    "Mali": {
+        "flag": "ML"
+    },
+    "Malta": {
+        "flag": "MT"
+    },
+    "Martinique": {
+        "flag": "MQ"
+    },
+    "Mauritania": {
+        "flag": "MR"
+    },
+    "Mauritius": {
+        "flag": "MU"
+    },
+    "Mexico": {
+        "flag": "MX"
+    },
+    "Monaco": {
+        "flag": "MC"
+    },
+    "Mongolia": {
+        "flag": "MN"
+    },
+    "Moldova, Republic of": {
+        "flag": "MD"
+    },
+    "Montenegro": {
+        "flag": "ME"
+    },
+    "Montserrat": {
+        "flag": "MS"
+    },
+    "Morocco": {
+        "flag": "MA"
+    },
+    "Mozambique": {
+        "flag": "MZ"
+    },
+    "Oman": {
+        "flag": "OM"
+    },
+    "Namibia": {
+        "flag": "NA"
+    },
+    "Nauru": {
+        "flag": "NR"
+    },
+    "Nepal": {
+        "flag": "NP"
+    },
+    "Netherlands": {
+        "flag": "NL"
+    },
+    "Curaçao": {
+        "flag": "CW"
+    },
+    "Aruba": {
+        "flag": "AW"
+    },
+    "Sint Maarten (Dutch part)": {
+        "flag": "SX"
+    },
+    "Bonaire, Sint Eustatius and Saba": {
+        "flag": "BQ"
+    },
+    "New Caledonia": {
+        "flag": "NC"
+    },
+    "Vanuatu": {
+        "flag": "VU"
+    },
+    "New Zealand": {
+        "flag": "NZ"
+    },
+    "Nicaragua": {
+        "flag": "NI"
+    },
+    "Niger": {
+        "flag": "NE"
+    },
+    "Nigeria": {
+        "flag": "NG"
+    },
+    "Niue": {
+        "flag": "NU"
+    },
+    "Norfolk Island": {
+        "flag": "NF"
+    },
+    "Norway": {
+        "flag": "NO"
+    },
+    "Northern Mariana Islands": {
+        "flag": "MP"
+    },
+    "United States Minor Outlying Islands": {
+        "flag": "UM"
+    },
+    "Micronesia, Federated States of": {
+        "flag": "FM"
+    },
+    "Marshall Islands": {
+        "flag": "MH"
+    },
+    "Palau": {
+        "flag": "PW"
+    },
+    "Pakistan": {
+        "flag": "PK"
+    },
+    "Panama": {
+        "flag": "PA"
+    },
+    "Papua New Guinea": {
+        "flag": "PG"
+    },
+    "Paraguay": {
+        "flag": "PY"
+    },
+    "Peru": {
+        "flag": "PE"
+    },
+    "Philippines": {
+        "flag": "PH"
+    },
+    "Pitcairn": {
+        "flag": "PN"
+    },
+    "Poland": {
+        "flag": "PL"
+    },
+    "Portugal": {
+        "flag": "PT"
+    },
+    "Guinea-Bissau": {
+        "flag": "GW"
+    },
+    "Timor-Leste": {
+        "flag": "TL"
+    },
+    "Puerto Rico": {
+        "flag": "PR"
+    },
+    "Qatar": {
+        "flag": "QA"
+    },
+    "Réunion": {
+        "flag": "RE"
+    },
+    "Romania": {
+        "flag": "RO"
+    },
+    "Russian Federation": {
+        "flag": "RU"
+    },
+    "Rwanda": {
+        "flag": "RW"
+    },
+    "Saint Barthélemy": {
+        "flag": "BL"
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+        "flag": "SH"
+    },
+    "Saint Kitts and Nevis": {
+        "flag": "KN"
+    },
+    "Anguilla": {
+        "flag": "AI"
+    },
+    "Saint Lucia": {
+        "flag": "LC"
+    },
+    "Saint Martin (French part)": {
+        "flag": "MF"
+    },
+    "Saint Pierre and Miquelon": {
+        "flag": "PM"
+    },
+    "Saint Vincent and the Grenadines": {
+        "flag": "VC"
+    },
+    "San Marino": {
+        "flag": "SM"
+    },
+    "Sao Tome and Principe": {
+        "flag": "ST"
+    },
+    "Saudi Arabia": {
+        "flag": "SA"
+    },
+    "Senegal": {
+        "flag": "SN"
+    },
+    "Serbia": {
+        "flag": "RS"
+    },
+    "Seychelles": {
+        "flag": "SC"
+    },
+    "Sierra Leone": {
+        "flag": "SL"
+    },
+    "Singapore": {
+        "flag": "SG"
+    },
+    "Slovakia": {
+        "flag": "SK"
+    },
+    "Viet Nam": {
+        "flag": "VN"
+    },
+    "Slovenia": {
+        "flag": "SI"
+    },
+    "Somalia": {
+        "flag": "SO"
+    },
+    "South Africa": {
+        "flag": "ZA"
+    },
+    "Zimbabwe": {
+        "flag": "ZW"
+    },
+    "Spain": {
+        "flag": "ES"
+    },
+    "South Sudan": {
+        "flag": "SS"
+    },
+    "Sudan": {
+        "flag": "SD"
+    },
+    "Western Sahara": {
+        "flag": "EH"
+    },
+    "Suriname": {
+        "flag": "SR"
+    },
+    "Svalbard and Jan Mayen": {
+        "flag": "SJ"
+    },
+    "Swaziland": {
+        "flag": "SZ"
+    },
+    "Sweden": {
+        "flag": "SE"
+    },
+    "Switzerland": {
+        "flag": "CH"
+    },
+    "Syrian Arab Republic": {
+        "flag": "SY"
+    },
+    "Tajikistan": {
+        "flag": "TJ"
+    },
+    "Thailand": {
+        "flag": "TH"
+    },
+    "Togo": {
+        "flag": "TG"
+    },
+    "Tokelau": {
+        "flag": "TK"
+    },
+    "Tonga": {
+        "flag": "TO"
+    },
+    "Trinidad and Tobago": {
+        "flag": "TT"
+    },
+    "United Arab Emirates": {
+        "flag": "AE"
+    },
+    "Tunisia": {
+        "flag": "TN"
+    },
+    "Turkey": {
+        "flag": "TR"
+    },
+    "Turkmenistan": {
+        "flag": "TM"
+    },
+    "Turks and Caicos Islands": {
+        "flag": "TC"
+    },
+    "Tuvalu": {
+        "flag": "TV"
+    },
+    "Uganda": {
+        "flag": "UG"
+    },
+    "Ukraine": {
+        "flag": "UA"
+    },
+    "Macedonia, the former Yugoslav Republic of": {
+        "flag": "MK"
+    },
+    "Egypt": {
+        "flag": "EG"
+    },
+    "United Kingdom": {
+        "flag": "GB"
+    },
+    "Guernsey": {
+        "flag": "GG"
+    },
+    "Jersey": {
+        "flag": "JE"
+    },
+    "Isle of Man": {
+        "flag": "IM"
+    },
+    "Tanzania, United Republic of": {
+        "flag": "TZ"
+    },
+    "United States": {
+        "flag": "US"
+    },
+    "Virgin Islands, U.S.": {
+        "flag": "VI"
+    },
+    "Burkina Faso": {
+        "flag": "BF"
+    },
+    "Uruguay": {
+        "flag": "UY"
+    },
+    "Uzbekistan": {
+        "flag": "UZ"
+    },
+    "Venezuela, Bolivarian Republic of": {
+        "flag": "VE"
+    },
+    "Wallis and Futuna": {
+        "flag": "WF"
+    },
+    "Samoa": {
+        "flag": "WS"
+    },
+    "Yemen": {
+        "flag": "YE"
+    },
+    "Zambia": {
+        "flag": "ZM"
+    }
+}

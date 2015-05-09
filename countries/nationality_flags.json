@@ -1,0 +1,749 @@
+{
+    "Afghan": {
+        "iso3166-2": "AF"
+    },
+    "Albanian": {
+        "iso3166-2": "AL"
+    },
+    "of Antartica": {
+        "iso3166-2": "AQ"
+    },
+    "Algerian": {
+        "iso3166-2": "DZ"
+    },
+    "American Samoan": {
+        "iso3166-2": "AS"
+    },
+    "Andorran": {
+        "iso3166-2": "AD"
+    },
+    "Angolan": {
+        "iso3166-2": "AO"
+    },
+    "of Antigua and Barbuda": {
+        "iso3166-2": "AG"
+    },
+    "Azerbaijani": {
+        "iso3166-2": "AZ"
+    },
+    "Argentinian": {
+        "iso3166-2": "AR"
+    },
+    "Australian": {
+        "iso3166-2": "AU"
+    },
+    "Austrian": {
+        "iso3166-2": "AT"
+    },
+    "Bahamian": {
+        "iso3166-2": "BS"
+    },
+    "Bahraini": {
+        "iso3166-2": "BH"
+    },
+    "Bangladeshi": {
+        "iso3166-2": "BD"
+    },
+    "Armenian": {
+        "iso3166-2": "AM"
+    },
+    "Barbadian": {
+        "iso3166-2": "BB"
+    },
+    "Belgian": {
+        "iso3166-2": "BE"
+    },
+    "Bermudian": {
+        "iso3166-2": "BM"
+    },
+    "Bhutanese": {
+        "iso3166-2": "BT"
+    },
+    "Bolivian": {
+        "iso3166-2": "BO"
+    },
+    "of Bosnia and Herzegovina": {
+        "iso3166-2": "BA"
+    },
+    "Botswanan": {
+        "iso3166-2": "BW"
+    },
+    "of Bouvet island": {
+        "iso3166-2": "BV"
+    },
+    "Brazilian": {
+        "iso3166-2": "BR"
+    },
+    "Belizean": {
+        "iso3166-2": "BZ"
+    },
+    "Changosian": {
+        "iso3166-2": "IO"
+    },
+    "Solomon Islander": {
+        "iso3166-2": "SB"
+    },
+    "British Virgin Islander;": {
+        "iso3166-2": "VG"
+    },
+    "Bruneian": {
+        "iso3166-2": "BN"
+    },
+    "Bulgarian": {
+        "iso3166-2": "BG"
+    },
+    "Burmese": {
+        "iso3166-2": "MM"
+    },
+    "Burundian": {
+        "iso3166-2": "BI"
+    },
+    "Belarusian": {
+        "iso3166-2": "BY"
+    },
+    "Cambodian": {
+        "iso3166-2": "KH"
+    },
+    "Cameroonian": {
+        "iso3166-2": "CM"
+    },
+    "Canadian": {
+        "iso3166-2": "CA"
+    },
+    "Cape Verdean": {
+        "iso3166-2": "CV"
+    },
+    "Caymanian": {
+        "iso3166-2": "KY"
+    },
+    "Central African": {
+        "iso3166-2": "CF"
+    },
+    "Sri Lankan": {
+        "iso3166-2": "LK"
+    },
+    "Chadian": {
+        "iso3166-2": "TD"
+    },
+    "Chilean": {
+        "iso3166-2": "CL"
+    },
+    "Chinese": {
+        "iso3166-2": "CN"
+    },
+    "Taiwanese": {
+        "iso3166-2": "TW"
+    },
+    "Christmas Islander": {
+        "iso3166-2": "CX"
+    },
+    "Cocos Islander": {
+        "iso3166-2": "CC"
+    },
+    "Colombian": {
+        "iso3166-2": "CO"
+    },
+    "Comorian": {
+        "iso3166-2": "KM"
+    },
+    "Mahorais": {
+        "iso3166-2": "YT"
+    },
+    "Congolese": {
+        "iso3166-2": "CG"
+    },
+    "Congolese": {
+        "iso3166-2": "CD"
+    },
+    "Cook Islander": {
+        "iso3166-2": "CK"
+    },
+    "Costa Rican": {
+        "iso3166-2": "CR"
+    },
+    "Croatian": {
+        "iso3166-2": "HR"
+    },
+    "Cuban": {
+        "iso3166-2": "CU"
+    },
+    "Cypriot": {
+        "iso3166-2": "CY"
+    },
+    "Czech": {
+        "iso3166-2": "CZ"
+    },
+    "Beninese": {
+        "iso3166-2": "BJ"
+    },
+    "Danish": {
+        "iso3166-2": "DK"
+    },
+    "Dominican": {
+        "iso3166-2": "DM"
+    },
+    "Dominican": {
+        "iso3166-2": "DO"
+    },
+    "Ecuadorian": {
+        "iso3166-2": "EC"
+    },
+    "Salvadoran": {
+        "iso3166-2": "SV"
+    },
+    "Equatorial Guinean": {
+        "iso3166-2": "GQ"
+    },
+    "Ethiopian": {
+        "iso3166-2": "ET"
+    },
+    "Eritrean": {
+        "iso3166-2": "ER"
+    },
+    "Estonian": {
+        "iso3166-2": "EE"
+    },
+    "Faeroese": {
+        "iso3166-2": "FO"
+    },
+    "Falkland Islander": {
+        "iso3166-2": "FK"
+    },
+    "of South Georgia and the South Sandwich Islands": {
+        "iso3166-2": "GS"
+    },
+    "Fijian": {
+        "iso3166-2": "FJ"
+    },
+    "Finnish": {
+        "iso3166-2": "FI"
+    },
+    "Åland Islander": {
+        "iso3166-2": "AX"
+    },
+    "French": {
+        "iso3166-2": "FR"
+    },
+    "Guianese": {
+        "iso3166-2": "GF"
+    },
+    "Polynesian": {
+        "iso3166-2": "PF"
+    },
+    "of French Southern and Antarctic Lands": {
+        "iso3166-2": "TF"
+    },
+    "Djiboutian": {
+        "iso3166-2": "DJ"
+    },
+    "Gabonese": {
+        "iso3166-2": "GA"
+    },
+    "Georgian": {
+        "iso3166-2": "GE"
+    },
+    "Gambian": {
+        "iso3166-2": "GM"
+    },
+    "Palisitnean": {
+        "iso3166-2": ""
+    },
+    "German": {
+        "iso3166-2": "DE"
+    },
+    "Ghanaian": {
+        "iso3166-2": "GH"
+    },
+    "Gibraltarian": {
+        "iso3166-2": "GI"
+    },
+    "Kiribatian": {
+        "iso3166-2": "KI"
+    },
+    "Greek": {
+        "iso3166-2": "GR"
+    },
+    "Greenlander": {
+        "iso3166-2": "GL"
+    },
+    "Grenadian": {
+        "iso3166-2": "GD"
+    },
+    "Guadeloupean": {
+        "iso3166-2": "GP"
+    },
+    "Guamanian": {
+        "iso3166-2": "GU"
+    },
+    "Guatemalan": {
+        "iso3166-2": "GT"
+    },
+    "Guinean": {
+        "iso3166-2": "GN"
+    },
+    "Guyanese": {
+        "iso3166-2": "GY"
+    },
+    "Haitian": {
+        "iso3166-2": "HT"
+    },
+    "of Territory of Heard Island and McDonald Islands": {
+        "iso3166-2": "HM"
+    },
+    "of the Holy See/of the Vatican": {
+        "iso3166-2": "VA"
+    },
+    "Honduran": {
+        "iso3166-2": "HN"
+    },
+    "Hong Kong Chinese": {
+        "iso3166-2": "HK"
+    },
+    "Hungarian": {
+        "iso3166-2": "HU"
+    },
+    "Icelander": {
+        "iso3166-2": "IS"
+    },
+    "Indian": {
+        "iso3166-2": "IN"
+    },
+    "Indonesian": {
+        "iso3166-2": "ID"
+    },
+    "Iranian": {
+        "iso3166-2": "IR"
+    },
+    "Iraqi": {
+        "iso3166-2": "IQ"
+    },
+    "Irish": {
+        "iso3166-2": "IE"
+    },
+    "Israeli": {
+        "iso3166-2": "IL"
+    },
+    "Italian": {
+        "iso3166-2": "IT"
+    },
+    "Ivorian": {
+        "iso3166-2": "CI"
+    },
+    "Jamaican": {
+        "iso3166-2": "JM"
+    },
+    "Japanese": {
+        "iso3166-2": "JP"
+    },
+    "Kazakh": {
+        "iso3166-2": "KZ"
+    },
+    "Jordanian": {
+        "iso3166-2": "JO"
+    },
+    "Kenyan": {
+        "iso3166-2": "KE"
+    },
+    "North Korean": {
+        "iso3166-2": "KP"
+    },
+    "South Korean": {
+        "iso3166-2": "KR"
+    },
+    "Kuwaiti": {
+        "iso3166-2": "KW"
+    },
+    "Kyrgyz": {
+        "iso3166-2": "KG"
+    },
+    "Lao": {
+        "iso3166-2": "LA"
+    },
+    "Lebanese": {
+        "iso3166-2": "LB"
+    },
+    "Basotho": {
+        "iso3166-2": "LS"
+    },
+    "Latvian": {
+        "iso3166-2": "LV"
+    },
+    "Liberian": {
+        "iso3166-2": "LR"
+    },
+    "Libyan": {
+        "iso3166-2": "LY"
+    },
+    "Liechtensteiner": {
+        "iso3166-2": "LI"
+    },
+    "Lithuanian": {
+        "iso3166-2": "LT"
+    },
+    "Luxembourger": {
+        "iso3166-2": "LU"
+    },
+    "Macanese": {
+        "iso3166-2": "MO"
+    },
+    "Malagasy": {
+        "iso3166-2": "MG"
+    },
+    "Malawian": {
+        "iso3166-2": "MW"
+    },
+    "Malaysian": {
+        "iso3166-2": "MY"
+    },
+    "Maldivian": {
+        "iso3166-2": "MV"
+    },
+    "Malian": {
+        "iso3166-2": "ML"
+    },
+    "Maltese": {
+        "iso3166-2": "MT"
+    },
+    "Martinican": {
+        "iso3166-2": "MQ"
+    },
+    "Mauritanian": {
+        "iso3166-2": "MR"
+    },
+    "Mauritian": {
+        "iso3166-2": "MU"
+    },
+    "Mexican": {
+        "iso3166-2": "MX"
+    },
+    "Monegasque": {
+        "iso3166-2": "MC"
+    },
+    "Mongolian": {
+        "iso3166-2": "MN"
+    },
+    "Moldovan": {
+        "iso3166-2": "MD"
+    },
+    "Montenegrin": {
+        "iso3166-2": "ME"
+    },
+    "Montserratian": {
+        "iso3166-2": "MS"
+    },
+    "Moroccan": {
+        "iso3166-2": "MA"
+    },
+    "Mozambican": {
+        "iso3166-2": "MZ"
+    },
+    "Omani": {
+        "iso3166-2": "OM"
+    },
+    "Namibian": {
+        "iso3166-2": "NA"
+    },
+    "Nauruan": {
+        "iso3166-2": "NR"
+    },
+    "Nepalese": {
+        "iso3166-2": "NP"
+    },
+    "Dutch": {
+        "iso3166-2": "NL"
+    },
+    "Curaçaoan": {
+        "iso3166-2": "CW"
+    },
+    "Aruban": {
+        "iso3166-2": "AW"
+    },
+    "Sint Maartener": {
+        "iso3166-2": "SX"
+    },
+    "of Bonaire, Sint Eustatius and Saba": {
+        "iso3166-2": "BQ"
+    },
+    "New Caledonian": {
+        "iso3166-2": "NC"
+    },
+    "Vanuatuan": {
+        "iso3166-2": "VU"
+    },
+    "New Zealander": {
+        "iso3166-2": "NZ"
+    },
+    "Nicaraguan": {
+        "iso3166-2": "NI"
+    },
+    "Nigerien": {
+        "iso3166-2": "NE"
+    },
+    "Nigerian": {
+        "iso3166-2": "NG"
+    },
+    "Niuean": {
+        "iso3166-2": "NU"
+    },
+    "Norfolk Islander": {
+        "iso3166-2": "NF"
+    },
+    "Norwegian": {
+        "iso3166-2": "NO"
+    },
+    "Northern Mariana Islander": {
+        "iso3166-2": "MP"
+    },
+    "of United States Minor Outlying Islands": {
+        "iso3166-2": "UM"
+    },
+    "Micronesian": {
+        "iso3166-2": "FM"
+    },
+    "Marshallese": {
+        "iso3166-2": "MH"
+    },
+    "Palauan": {
+        "iso3166-2": "PW"
+    },
+    "Pakistani": {
+        "iso3166-2": "PK"
+    },
+    "Panamanian": {
+        "iso3166-2": "PA"
+    },
+    "Papua New Guinean": {
+        "iso3166-2": "PG"
+    },
+    "Paraguayan": {
+        "iso3166-2": "PY"
+    },
+    "Peruvian": {
+        "iso3166-2": "PE"
+    },
+    "Filipino": {
+        "iso3166-2": "PH"
+    },
+    "Pitcairner": {
+        "iso3166-2": "PN"
+    },
+    "Polish": {
+        "iso3166-2": "PL"
+    },
+    "Portuguese": {
+        "iso3166-2": "PT"
+    },
+    "Guinea-Bissau national": {
+        "iso3166-2": "GW"
+    },
+    "East Timorese": {
+        "iso3166-2": "TL"
+    },
+    "Puerto Rican": {
+        "iso3166-2": "PR"
+    },
+    "Qatari": {
+        "iso3166-2": "QA"
+    },
+    "Reunionese": {
+        "iso3166-2": "RE"
+    },
+    "Romanian": {
+        "iso3166-2": "RO"
+    },
+    "Russian": {
+        "iso3166-2": "RU"
+    },
+    "Rwandan; Rwandese": {
+        "iso3166-2": "RW"
+    },
+    "of Saint Barthélemy": {
+        "iso3166-2": "BL"
+    },
+    "Saint Helenian": {
+        "iso3166-2": "SH"
+    },
+    "Kittsian; Nevisian": {
+        "iso3166-2": "KN"
+    },
+    "Anguillan": {
+        "iso3166-2": "AI"
+    },
+    "Saint Lucian": {
+        "iso3166-2": "LC"
+    },
+    "of Saint Martin": {
+        "iso3166-2": "MF"
+    },
+    "St-Pierrais; Miquelonnais": {
+        "iso3166-2": "PM"
+    },
+    "Vincentian": {
+        "iso3166-2": "VC"
+    },
+    "San Marinese": {
+        "iso3166-2": "SM"
+    },
+    "São Toméan": {
+        "iso3166-2": "ST"
+    },
+    "Saudi Arabian": {
+        "iso3166-2": "SA"
+    },
+    "Senegalese": {
+        "iso3166-2": "SN"
+    },
+    "Serb": {
+        "iso3166-2": "RS"
+    },
+    "Seychellois": {
+        "iso3166-2": "SC"
+    },
+    "Sierra Leonean": {
+        "iso3166-2": "SL"
+    },
+    "Singaporean": {
+        "iso3166-2": "SG"
+    },
+    "Slovak": {
+        "iso3166-2": "SK"
+    },
+    "Vietnamese": {
+        "iso3166-2": "VN"
+    },
+    "Slovene": {
+        "iso3166-2": "SI"
+    },
+    "Somali": {
+        "iso3166-2": "SO"
+    },
+    "South African": {
+        "iso3166-2": "ZA"
+    },
+    "Zimbabwean": {
+        "iso3166-2": "ZW"
+    },
+    "Spaniard": {
+        "iso3166-2": "ES"
+    },
+    "South Sudanese": {
+        "iso3166-2": "SS"
+    },
+    "Sudanese": {
+        "iso3166-2": "SD"
+    },
+    "Sahrawi": {
+        "iso3166-2": "EH"
+    },
+    "Surinamese": {
+        "iso3166-2": "SR"
+    },
+    "of Svalbard": {
+        "iso3166-2": "SJ"
+    },
+    "Swazi": {
+        "iso3166-2": "SZ"
+    },
+    "Swedish": {
+        "iso3166-2": "SE"
+    },
+    "Swiss": {
+        "iso3166-2": "CH"
+    },
+    "Syrian": {
+        "iso3166-2": "SY"
+    },
+    "Tajik": {
+        "iso3166-2": "TJ"
+    },
+    "Thai": {
+        "iso3166-2": "TH"
+    },
+    "Togolese": {
+        "iso3166-2": "TG"
+    },
+    "Tokelauan": {
+        "iso3166-2": "TK"
+    },
+    "Tongan": {
+        "iso3166-2": "TO"
+    },
+    "Trinidadian; Tobagonian": {
+        "iso3166-2": "TT"
+    },
+    "Emirian": {
+        "iso3166-2": "AE"
+    },
+    "Tunisian": {
+        "iso3166-2": "TN"
+    },
+    "Turk": {
+        "iso3166-2": "TR"
+    },
+    "Turkmen": {
+        "iso3166-2": "TM"
+    },
+    "Turks and Caicos Islander": {
+        "iso3166-2": "TC"
+    },
+    "Tuvaluan": {
+        "iso3166-2": "TV"
+    },
+    "Ugandan": {
+        "iso3166-2": "UG"
+    },
+    "Ukrainian": {
+        "iso3166-2": "UA"
+    },
+    "of the former Yugoslav Republic of Macedonia": {
+        "iso3166-2": "MK"
+    },
+    "Egyptian": {
+        "iso3166-2": "EG"
+    },
+    "British": {
+        "iso3166-2": "GB"
+    },
+    "of Guernsey": {
+        "iso3166-2": "GG"
+    },
+    "of Jersey": {
+        "iso3166-2": "JE"
+    },
+    "Manxman; Manxwoman": {
+        "iso3166-2": "IM"
+    },
+    "Tanzanian": {
+        "iso3166-2": "TZ"
+    },
+    "American": {
+        "iso3166-2": "US"
+    },
+    "US Virgin Islander": {
+        "iso3166-2": "VI"
+    },
+    "Burkinabe": {
+        "iso3166-2": "BF"
+    },
+    "Uruguayan": {
+        "iso3166-2": "UY"
+    },
+    "Uzbek": {
+        "iso3166-2": "UZ"
+    },
+    "Venezuelan": {
+        "iso3166-2": "VE"
+    },
+    "Wallisian; Futunan; Wallis and Futuna Islander": {
+        "iso3166-2": "WF"
+    },
+    "Samoan": {
+        "iso3166-2": "WS"
+    },
+    "Yemenite": {
+        "iso3166-2": "YE"
+    },
+    "Zambian": {
+        "iso3166-2": "ZM"
+    }
+}

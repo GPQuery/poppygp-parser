@@ -1,0 +1,998 @@
+{
+    "AF": {
+        "name": "Afghanistan",
+        "nationality": "Afghan"
+    },
+    "AL": {
+        "name": "Albania",
+        "nationality": "Albanian"
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "nationality": "of Antartica"
+    },
+    "DZ": {
+        "name": "Algeria",
+        "nationality": "Algerian"
+    },
+    "AS": {
+        "name": "American Samoa",
+        "nationality": "American Samoan"
+    },
+    "AD": {
+        "name": "Andorra",
+        "nationality": "Andorran"
+    },
+    "AO": {
+        "name": "Angola",
+        "nationality": "Angolan"
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "nationality": "of Antigua and Barbuda"
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "nationality": "Azerbaijani"
+    },
+    "AR": {
+        "name": "Argentina",
+        "nationality": "Argentinian"
+    },
+    "AU": {
+        "name": "Australia",
+        "nationality": "Australian"
+    },
+    "AT": {
+        "name": "Austria",
+        "nationality": "Austrian"
+    },
+    "BS": {
+        "name": "Bahamas",
+        "nationality": "Bahamian"
+    },
+    "BH": {
+        "name": "Bahrain",
+        "nationality": "Bahraini"
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "nationality": "Bangladeshi"
+    },
+    "AM": {
+        "name": "Armenia",
+        "nationality": "Armenian"
+    },
+    "BB": {
+        "name": "Barbados",
+        "nationality": "Barbadian"
+    },
+    "BE": {
+        "name": "Belgium",
+        "nationality": "Belgian"
+    },
+    "BM": {
+        "name": "Bermuda",
+        "nationality": "Bermudian"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "nationality": "Bhutanese"
+    },
+    "BO": {
+        "name": "Bolivia, Plurinational State of",
+        "nationality": "Bolivian"
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovina",
+        "nationality": "of Bosnia and Herzegovina"
+    },
+    "BW": {
+        "name": "Botswana",
+        "nationality": "Botswanan"
+    },
+    "BV": {
+        "name": "Bouvet Island",
+        "nationality": "of Bouvet island"
+    },
+    "BR": {
+        "name": "Brazil",
+        "nationality": "Brazilian"
+    },
+    "BZ": {
+        "name": "Belize",
+        "nationality": "Belizean"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "nationality": "Changosian"
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "nationality": "Solomon Islander"
+    },
+    "VG": {
+        "name": "Virgin Islands, British",
+        "nationality": "British Virgin Islander;"
+    },
+    "BN": {
+        "name": "Brunei Darussalam",
+        "nationality": "Bruneian"
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "nationality": "Bulgarian"
+    },
+    "MM": {
+        "name": "Myanmar",
+        "nationality": "Burmese"
+    },
+    "BI": {
+        "name": "Burundi",
+        "nationality": "Burundian"
+    },
+    "BY": {
+        "name": "Belarus",
+        "nationality": "Belarusian"
+    },
+    "KH": {
+        "name": "Cambodia",
+        "nationality": "Cambodian"
+    },
+    "CM": {
+        "name": "Cameroon",
+        "nationality": "Cameroonian"
+    },
+    "CA": {
+        "name": "Canada",
+        "nationality": "Canadian"
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "nationality": "Cape Verdean"
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "nationality": "Caymanian"
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "nationality": "Central African"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "nationality": "Sri Lankan"
+    },
+    "TD": {
+        "name": "Chad",
+        "nationality": "Chadian"
+    },
+    "CL": {
+        "name": "Chile",
+        "nationality": "Chilean"
+    },
+    "CN": {
+        "name": "China",
+        "nationality": "Chinese"
+    },
+    "TW": {
+        "name": "Taiwan, Province of China",
+        "nationality": "Taiwanese"
+    },
+    "CX": {
+        "name": "Christmas Island",
+        "nationality": "Christmas Islander"
+    },
+    "CC": {
+        "name": "Cocos (Keeling) Islands",
+        "nationality": "Cocos Islander"
+    },
+    "CO": {
+        "name": "Colombia",
+        "nationality": "Colombian"
+    },
+    "KM": {
+        "name": "Comoros",
+        "nationality": "Comorian"
+    },
+    "YT": {
+        "name": "Mayotte",
+        "nationality": "Mahorais"
+    },
+    "CG": {
+        "name": "Congo",
+        "nationality": "Congolese"
+    },
+    "CD": {
+        "name": "Congo, the Democratic Republic of the",
+        "nationality": "Congolese"
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "nationality": "Cook Islander"
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "nationality": "Costa Rican"
+    },
+    "HR": {
+        "name": "Croatia",
+        "nationality": "Croatian"
+    },
+    "CU": {
+        "name": "Cuba",
+        "nationality": "Cuban"
+    },
+    "CY": {
+        "name": "Cyprus",
+        "nationality": "Cypriot"
+    },
+    "CZ": {
+        "name": "Czech Republic",
+        "nationality": "Czech"
+    },
+    "BJ": {
+        "name": "Benin",
+        "nationality": "Beninese"
+    },
+    "DK": {
+        "name": "Denmark",
+        "nationality": "Danish"
+    },
+    "DM": {
+        "name": "Dominica",
+        "nationality": "Dominican"
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "nationality": "Dominican"
+    },
+    "EC": {
+        "name": "Ecuador",
+        "nationality": "Ecuadorian"
+    },
+    "SV": {
+        "name": "El Salvador",
+        "nationality": "Salvadoran"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "nationality": "Equatorial Guinean"
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "nationality": "Ethiopian"
+    },
+    "ER": {
+        "name": "Eritrea",
+        "nationality": "Eritrean"
+    },
+    "EE": {
+        "name": "Estonia",
+        "nationality": "Estonian"
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "nationality": "Faeroese"
+    },
+    "FK": {
+        "name": "Falkland Islands (Malvinas)",
+        "nationality": "Falkland Islander"
+    },
+    "GS": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "nationality": "of South Georgia and the South Sandwich Islands"
+    },
+    "FJ": {
+        "name": "Fiji",
+        "nationality": "Fijian"
+    },
+    "FI": {
+        "name": "Finland",
+        "nationality": "Finnish"
+    },
+    "AX": {
+        "name": "Åland Islands",
+        "nationality": "Åland Islander"
+    },
+    "FR": {
+        "name": "France",
+        "nationality": "French"
+    },
+    "GF": {
+        "name": "French Guiana",
+        "nationality": "Guianese"
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "nationality": "Polynesian"
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "nationality": "of French Southern and Antarctic Lands"
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "nationality": "Djiboutian"
+    },
+    "GA": {
+        "name": "Gabon",
+        "nationality": "Gabonese"
+    },
+    "GE": {
+        "name": "Georgia",
+        "nationality": "Georgian"
+    },
+    "GM": {
+        "name": "Gambia",
+        "nationality": "Gambian"
+    },
+    "": {
+        "name": "",
+        "nationality": "Palisitnean"
+    },
+    "DE": {
+        "name": "Germany",
+        "nationality": "German"
+    },
+    "GH": {
+        "name": "Ghana",
+        "nationality": "Ghanaian"
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "nationality": "Gibraltarian"
+    },
+    "KI": {
+        "name": "Kiribati",
+        "nationality": "Kiribatian"
+    },
+    "GR": {
+        "name": "Greece",
+        "nationality": "Greek"
+    },
+    "GL": {
+        "name": "Greenland",
+        "nationality": "Greenlander"
+    },
+    "GD": {
+        "name": "Grenada",
+        "nationality": "Grenadian"
+    },
+    "GP": {
+        "name": "Guadeloupe",
+        "nationality": "Guadeloupean"
+    },
+    "GU": {
+        "name": "Guam",
+        "nationality": "Guamanian"
+    },
+    "GT": {
+        "name": "Guatemala",
+        "nationality": "Guatemalan"
+    },
+    "GN": {
+        "name": "Guinea",
+        "nationality": "Guinean"
+    },
+    "GY": {
+        "name": "Guyana",
+        "nationality": "Guyanese"
+    },
+    "HT": {
+        "name": "Haiti",
+        "nationality": "Haitian"
+    },
+    "HM": {
+        "name": "Heard Island and McDonald Islands",
+        "nationality": "of Territory of Heard Island and McDonald Islands"
+    },
+    "VA": {
+        "name": "Holy See (Vatican City State)",
+        "nationality": "of the Holy See/of the Vatican"
+    },
+    "HN": {
+        "name": "Honduras",
+        "nationality": "Honduran"
+    },
+    "HK": {
+        "name": "Hong Kong",
+        "nationality": "Hong Kong Chinese"
+    },
+    "HU": {
+        "name": "Hungary",
+        "nationality": "Hungarian"
+    },
+    "IS": {
+        "name": "Iceland",
+        "nationality": "Icelander"
+    },
+    "IN": {
+        "name": "India",
+        "nationality": "Indian"
+    },
+    "ID": {
+        "name": "Indonesia",
+        "nationality": "Indonesian"
+    },
+    "IR": {
+        "name": "Iran, Islamic Republic of",
+        "nationality": "Iranian"
+    },
+    "IQ": {
+        "name": "Iraq",
+        "nationality": "Iraqi"
+    },
+    "IE": {
+        "name": "Ireland",
+        "nationality": "Irish"
+    },
+    "IL": {
+        "name": "Israel",
+        "nationality": "Israeli"
+    },
+    "IT": {
+        "name": "Italy",
+        "nationality": "Italian"
+    },
+    "CI": {
+        "name": "Côte d'Ivoire",
+        "nationality": "Ivorian"
+    },
+    "JM": {
+        "name": "Jamaica",
+        "nationality": "Jamaican"
+    },
+    "JP": {
+        "name": "Japan",
+        "nationality": "Japanese"
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "nationality": "Kazakh"
+    },
+    "JO": {
+        "name": "Jordan",
+        "nationality": "Jordanian"
+    },
+    "KE": {
+        "name": "Kenya",
+        "nationality": "Kenyan"
+    },
+    "KP": {
+        "name": "Korea, Democratic People's Republic of",
+        "nationality": "North Korean"
+    },
+    "KR": {
+        "name": "Korea, Republic of",
+        "nationality": "South Korean"
+    },
+    "KW": {
+        "name": "Kuwait",
+        "nationality": "Kuwaiti"
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "nationality": "Kyrgyz"
+    },
+    "LA": {
+        "name": "Lao People's Democratic Republic",
+        "nationality": "Lao"
+    },
+    "LB": {
+        "name": "Lebanon",
+        "nationality": "Lebanese"
+    },
+    "LS": {
+        "name": "Lesotho",
+        "nationality": "Basotho"
+    },
+    "LV": {
+        "name": "Latvia",
+        "nationality": "Latvian"
+    },
+    "LR": {
+        "name": "Liberia",
+        "nationality": "Liberian"
+    },
+    "LY": {
+        "name": "Libya",
+        "nationality": "Libyan"
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "nationality": "Liechtensteiner"
+    },
+    "LT": {
+        "name": "Lithuania",
+        "nationality": "Lithuanian"
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "nationality": "Luxembourger"
+    },
+    "MO": {
+        "name": "Macao",
+        "nationality": "Macanese"
+    },
+    "MG": {
+        "name": "Madagascar",
+        "nationality": "Malagasy"
+    },
+    "MW": {
+        "name": "Malawi",
+        "nationality": "Malawian"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "nationality": "Malaysian"
+    },
+    "MV": {
+        "name": "Maldives",
+        "nationality": "Maldivian"
+    },
+    "ML": {
+        "name": "Mali",
+        "nationality": "Malian"
+    },
+    "MT": {
+        "name": "Malta",
+        "nationality": "Maltese"
+    },
+    "MQ": {
+        "name": "Martinique",
+        "nationality": "Martinican"
+    },
+    "MR": {
+        "name": "Mauritania",
+        "nationality": "Mauritanian"
+    },
+    "MU": {
+        "name": "Mauritius",
+        "nationality": "Mauritian"
+    },
+    "MX": {
+        "name": "Mexico",
+        "nationality": "Mexican"
+    },
+    "MC": {
+        "name": "Monaco",
+        "nationality": "Monegasque"
+    },
+    "MN": {
+        "name": "Mongolia",
+        "nationality": "Mongolian"
+    },
+    "MD": {
+        "name": "Moldova, Republic of",
+        "nationality": "Moldovan"
+    },
+    "ME": {
+        "name": "Montenegro",
+        "nationality": "Montenegrin"
+    },
+    "MS": {
+        "name": "Montserrat",
+        "nationality": "Montserratian"
+    },
+    "MA": {
+        "name": "Morocco",
+        "nationality": "Moroccan"
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "nationality": "Mozambican"
+    },
+    "OM": {
+        "name": "Oman",
+        "nationality": "Omani"
+    },
+    "NA": {
+        "name": "Namibia",
+        "nationality": "Namibian"
+    },
+    "NR": {
+        "name": "Nauru",
+        "nationality": "Nauruan"
+    },
+    "NP": {
+        "name": "Nepal",
+        "nationality": "Nepalese"
+    },
+    "NL": {
+        "name": "Netherlands",
+        "nationality": "Dutch"
+    },
+    "CW": {
+        "name": "Curaçao",
+        "nationality": "Curaçaoan"
+    },
+    "AW": {
+        "name": "Aruba",
+        "nationality": "Aruban"
+    },
+    "SX": {
+        "name": "Sint Maarten (Dutch part)",
+        "nationality": "Sint Maartener"
+    },
+    "BQ": {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "nationality": "of Bonaire, Sint Eustatius and Saba"
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "nationality": "New Caledonian"
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "nationality": "Vanuatuan"
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "nationality": "New Zealander"
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "nationality": "Nicaraguan"
+    },
+    "NE": {
+        "name": "Niger",
+        "nationality": "Nigerien"
+    },
+    "NG": {
+        "name": "Nigeria",
+        "nationality": "Nigerian"
+    },
+    "NU": {
+        "name": "Niue",
+        "nationality": "Niuean"
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "nationality": "Norfolk Islander"
+    },
+    "NO": {
+        "name": "Norway",
+        "nationality": "Norwegian"
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "nationality": "Northern Mariana Islander"
+    },
+    "UM": {
+        "name": "United States Minor Outlying Islands",
+        "nationality": "of United States Minor Outlying Islands"
+    },
+    "FM": {
+        "name": "Micronesia, Federated States of",
+        "nationality": "Micronesian"
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "nationality": "Marshallese"
+    },
+    "PW": {
+        "name": "Palau",
+        "nationality": "Palauan"
+    },
+    "PK": {
+        "name": "Pakistan",
+        "nationality": "Pakistani"
+    },
+    "PA": {
+        "name": "Panama",
+        "nationality": "Panamanian"
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "nationality": "Papua New Guinean"
+    },
+    "PY": {
+        "name": "Paraguay",
+        "nationality": "Paraguayan"
+    },
+    "PE": {
+        "name": "Peru",
+        "nationality": "Peruvian"
+    },
+    "PH": {
+        "name": "Philippines",
+        "nationality": "Filipino"
+    },
+    "PN": {
+        "name": "Pitcairn",
+        "nationality": "Pitcairner"
+    },
+    "PL": {
+        "name": "Poland",
+        "nationality": "Polish"
+    },
+    "PT": {
+        "name": "Portugal",
+        "nationality": "Portuguese"
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "nationality": "Guinea-Bissau national"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "nationality": "East Timorese"
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "nationality": "Puerto Rican"
+    },
+    "QA": {
+        "name": "Qatar",
+        "nationality": "Qatari"
+    },
+    "RE": {
+        "name": "Réunion",
+        "nationality": "Reunionese"
+    },
+    "RO": {
+        "name": "Romania",
+        "nationality": "Romanian"
+    },
+    "RU": {
+        "name": "Russian Federation",
+        "nationality": "Russian"
+    },
+    "RW": {
+        "name": "Rwanda",
+        "nationality": "Rwandan; Rwandese"
+    },
+    "BL": {
+        "name": "Saint Barthélemy",
+        "nationality": "of Saint Barthélemy"
+    },
+    "SH": {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "nationality": "Saint Helenian"
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "nationality": "Kittsian; Nevisian"
+    },
+    "AI": {
+        "name": "Anguilla",
+        "nationality": "Anguillan"
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "nationality": "Saint Lucian"
+    },
+    "MF": {
+        "name": "Saint Martin (French part)",
+        "nationality": "of Saint Martin"
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "nationality": "St-Pierrais; Miquelonnais"
+    },
+    "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "nationality": "Vincentian"
+    },
+    "SM": {
+        "name": "San Marino",
+        "nationality": "San Marinese"
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "nationality": "São Toméan"
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "nationality": "Saudi Arabian"
+    },
+    "SN": {
+        "name": "Senegal",
+        "nationality": "Senegalese"
+    },
+    "RS": {
+        "name": "Serbia",
+        "nationality": "Serb"
+    },
+    "SC": {
+        "name": "Seychelles",
+        "nationality": "Seychellois"
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "nationality": "Sierra Leonean"
+    },
+    "SG": {
+        "name": "Singapore",
+        "nationality": "Singaporean"
+    },
+    "SK": {
+        "name": "Slovakia",
+        "nationality": "Slovak"
+    },
+    "VN": {
+        "name": "Viet Nam",
+        "nationality": "Vietnamese"
+    },
+    "SI": {
+        "name": "Slovenia",
+        "nationality": "Slovene"
+    },
+    "SO": {
+        "name": "Somalia",
+        "nationality": "Somali"
+    },
+    "ZA": {
+        "name": "South Africa",
+        "nationality": "South African"
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "nationality": "Zimbabwean"
+    },
+    "ES": {
+        "name": "Spain",
+        "nationality": "Spaniard"
+    },
+    "SS": {
+        "name": "South Sudan",
+        "nationality": "South Sudanese"
+    },
+    "SD": {
+        "name": "Sudan",
+        "nationality": "Sudanese"
+    },
+    "EH": {
+        "name": "Western Sahara",
+        "nationality": "Sahrawi"
+    },
+    "SR": {
+        "name": "Suriname",
+        "nationality": "Surinamese"
+    },
+    "SJ": {
+        "name": "Svalbard and Jan Mayen",
+        "nationality": "of Svalbard"
+    },
+    "SZ": {
+        "name": "Swaziland",
+        "nationality": "Swazi"
+    },
+    "SE": {
+        "name": "Sweden",
+        "nationality": "Swedish"
+    },
+    "CH": {
+        "name": "Switzerland",
+        "nationality": "Swiss"
+    },
+    "SY": {
+        "name": "Syrian Arab Republic",
+        "nationality": "Syrian"
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "nationality": "Tajik"
+    },
+    "TH": {
+        "name": "Thailand",
+        "nationality": "Thai"
+    },
+    "TG": {
+        "name": "Togo",
+        "nationality": "Togolese"
+    },
+    "TK": {
+        "name": "Tokelau",
+        "nationality": "Tokelauan"
+    },
+    "TO": {
+        "name": "Tonga",
+        "nationality": "Tongan"
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "nationality": "Trinidadian; Tobagonian"
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "nationality": "Emirian"
+    },
+    "TN": {
+        "name": "Tunisia",
+        "nationality": "Tunisian"
+    },
+    "TR": {
+        "name": "Turkey",
+        "nationality": "Turk"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "nationality": "Turkmen"
+    },
+    "TC": {
+        "name": "Turks and Caicos Islands",
+        "nationality": "Turks and Caicos Islander"
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "nationality": "Tuvaluan"
+    },
+    "UG": {
+        "name": "Uganda",
+        "nationality": "Ugandan"
+    },
+    "UA": {
+        "name": "Ukraine",
+        "nationality": "Ukrainian"
+    },
+    "MK": {
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "nationality": "of the former Yugoslav Republic of Macedonia"
+    },
+    "EG": {
+        "name": "Egypt",
+        "nationality": "Egyptian"
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "nationality": "British"
+    },
+    "GG": {
+        "name": "Guernsey",
+        "nationality": "of Guernsey"
+    },
+    "JE": {
+        "name": "Jersey",
+        "nationality": "of Jersey"
+    },
+    "IM": {
+        "name": "Isle of Man",
+        "nationality": "Manxman; Manxwoman"
+    },
+    "TZ": {
+        "name": "Tanzania, United Republic of",
+        "nationality": "Tanzanian"
+    },
+    "US": {
+        "name": "United States",
+        "nationality": "American"
+    },
+    "VI": {
+        "name": "Virgin Islands, U.S.",
+        "nationality": "US Virgin Islander"
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "nationality": "Burkinabe"
+    },
+    "UY": {
+        "name": "Uruguay",
+        "nationality": "Uruguayan"
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "nationality": "Uzbek"
+    },
+    "VE": {
+        "name": "Venezuela, Bolivarian Republic of",
+        "nationality": "Venezuelan"
+    },
+    "WF": {
+        "name": "Wallis and Futuna",
+        "nationality": "Wallisian; Futunan; Wallis and Futuna Islander"
+    },
+    "WS": {
+        "name": "Samoa",
+        "nationality": "Samoan"
+    },
+    "YE": {
+        "name": "Yemen",
+        "nationality": "Yemenite"
+    },
+    "ZM": {
+        "name": "Zambia",
+        "nationality": "Zambian"
+    }
+}

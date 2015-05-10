@@ -1,4 +1,7 @@
 <?php
+require 'vendor/autoload.php';
+use Carbon\Carbon;
+
 
 /**
  * Simple parser script for m3u and m3u8 playlists.
